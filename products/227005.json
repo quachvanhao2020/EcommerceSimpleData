@@ -1,0 +1,124 @@
+{
+    "seo": {
+        "keywords": [],
+        "id": "-1",
+        "__class": "YPHP\\SEOEntity"
+    },
+    "attributes": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\AttributeStorage"
+    },
+    "childrens": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\EntityStorage"
+    },
+    "parent": {
+        "id": "-1",
+        "__class": "YPHP\\Entity"
+    },
+    "name": "Energizer E12",
+    "status": {
+        "value": "NEUTRAL"
+    },
+    "note": "",
+    "dateCreated": {
+        "date": "2020-11-24 15:11:14.448713",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "ref": "\/dtdd\/energizer-e12",
+    "id": "227005",
+    "__class": "Ecomo\\Products\\ProductSociety",
+    "logo": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image",
+        "stream": null,
+        "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/227005\/energizer-e12-600-400x400.jpg",
+        "alt": "Energizer E12",
+        "width": "180",
+        "height": "180",
+        "thumb": null
+    },
+    "money": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 270000,
+        "currency": "USD"
+    },
+    "oldMoney": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "tax": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "type": "",
+    "category": {
+        "childrens": {
+            "storage": [],
+            "__class": "YPHP\\Storage\\EntityStorage"
+        },
+        "parent": {
+            "id": "-1",
+            "__class": "YPHP\\Entity"
+        },
+        "name": "",
+        "status": {
+            "value": "NEUTRAL"
+        },
+        "note": "",
+        "dateCreated": {
+            "date": "2020-11-24 15:11:14.448788",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "ref": "",
+        "id": "-1",
+        "__class": "Ecomo\\Categorys\\Category",
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": null,
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "slug": "",
+        "products": {
+            "storage": [],
+            "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+        }
+    },
+    "slug": "",
+    "availableForPurchase": false,
+    "variants": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+    },
+    "installment": 0,
+    "promo": null,
+    "discount": null,
+    "isNew": true,
+    "isFeature": false,
+    "untraImage": null,
+    "innerImage": null,
+    "description": "",
+    "script": "",
+    "ratings": {
+        "storage": [],
+        "__class": "Societymo\\Storage\\RatingStorage"
+    },
+    "compares": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+    },
+    "ratingAverage": 0,
+    "ratingCount": 0
+}

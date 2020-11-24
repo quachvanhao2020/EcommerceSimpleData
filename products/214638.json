@@ -1,0 +1,133 @@
+{
+    "seo": {
+        "keywords": [],
+        "id": "-1",
+        "__class": "YPHP\\SEOEntity"
+    },
+    "attributes": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\AttributeStorage"
+    },
+    "childrens": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\EntityStorage"
+    },
+    "parent": {
+        "id": "-1",
+        "__class": "YPHP\\Entity"
+    },
+    "name": "OnePlus 8 Pro 5G",
+    "status": {
+        "value": "NEUTRAL"
+    },
+    "note": "",
+    "dateCreated": {
+        "date": "2020-11-24 15:11:09.793647",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "ref": "\/dtdd\/oneplus-8-pro",
+    "id": "214638",
+    "__class": "Ecomo\\Products\\ProductSociety",
+    "logo": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image",
+        "stream": null,
+        "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/214638\/oneplus-8-pro-060020-090029-400x400.jpg",
+        "alt": "OnePlus 8 Pro 5G",
+        "width": "180",
+        "height": "180",
+        "thumb": null
+    },
+    "money": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 22990000,
+        "currency": "USD"
+    },
+    "oldMoney": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 23990000,
+        "currency": "USD"
+    },
+    "tax": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "type": "",
+    "category": {
+        "childrens": {
+            "storage": [],
+            "__class": "YPHP\\Storage\\EntityStorage"
+        },
+        "parent": {
+            "id": "-1",
+            "__class": "YPHP\\Entity"
+        },
+        "name": "",
+        "status": {
+            "value": "NEUTRAL"
+        },
+        "note": "",
+        "dateCreated": {
+            "date": "2020-11-24 15:11:09.793721",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "ref": "",
+        "id": "-1",
+        "__class": "Ecomo\\Categorys\\Category",
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": null,
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "slug": "",
+        "products": {
+            "storage": [],
+            "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+        }
+    },
+    "slug": "",
+    "availableForPurchase": false,
+    "variants": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+    },
+    "installment": 0,
+    "promo": " <p>Quà <b>3.000.000₫<\/b><\/p> ",
+    "discount": null,
+    "isNew": true,
+    "isFeature": false,
+    "untraImage": null,
+    "innerImage": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image",
+        "stream": null,
+        "src": "https:\/\/cdn.tgdd.vn\/ValueIcons\/1\/Label_01-05.png",
+        "alt": null,
+        "width": null,
+        "height": null,
+        "thumb": null
+    },
+    "description": "",
+    "script": "",
+    "ratings": {
+        "storage": [],
+        "__class": "Societymo\\Storage\\RatingStorage"
+    },
+    "compares": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+    },
+    "ratingAverage": 24,
+    "ratingCount": 5
+}

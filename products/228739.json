@@ -1,0 +1,124 @@
+{
+    "seo": {
+        "keywords": [],
+        "id": "-1",
+        "__class": "YPHP\\SEOEntity"
+    },
+    "attributes": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\AttributeStorage"
+    },
+    "childrens": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\EntityStorage"
+    },
+    "parent": {
+        "id": "-1",
+        "__class": "YPHP\\Entity"
+    },
+    "name": "iPhone 12 Pro 512GB",
+    "status": {
+        "value": "NEUTRAL"
+    },
+    "note": "",
+    "dateCreated": {
+        "date": "2020-11-24 15:11:09.788034",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "ref": "\/dtdd\/iphone-12-pro-512gb",
+    "id": "228739",
+    "__class": "Ecomo\\Products\\ProductSociety",
+    "logo": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image",
+        "stream": null,
+        "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/228739\/iphone-12-pro-512gb-190720-020739-400x400.jpg",
+        "alt": "iPhone 12 Pro 512GB",
+        "width": "180",
+        "height": "180",
+        "thumb": null
+    },
+    "money": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 40990000,
+        "currency": "USD"
+    },
+    "oldMoney": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "tax": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "type": "",
+    "category": {
+        "childrens": {
+            "storage": [],
+            "__class": "YPHP\\Storage\\EntityStorage"
+        },
+        "parent": {
+            "id": "-1",
+            "__class": "YPHP\\Entity"
+        },
+        "name": "",
+        "status": {
+            "value": "NEUTRAL"
+        },
+        "note": "",
+        "dateCreated": {
+            "date": "2020-11-24 15:11:09.788083",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "ref": "",
+        "id": "-1",
+        "__class": "Ecomo\\Categorys\\Category",
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": null,
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "slug": "",
+        "products": {
+            "storage": [],
+            "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+        }
+    },
+    "slug": "",
+    "availableForPurchase": false,
+    "variants": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+    },
+    "installment": 0,
+    "promo": null,
+    "discount": null,
+    "isNew": false,
+    "isFeature": false,
+    "untraImage": null,
+    "innerImage": null,
+    "description": "H&#224;ng sắp về",
+    "script": "",
+    "ratings": {
+        "storage": [],
+        "__class": "Societymo\\Storage\\RatingStorage"
+    },
+    "compares": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+    },
+    "ratingAverage": 0,
+    "ratingCount": 0
+}

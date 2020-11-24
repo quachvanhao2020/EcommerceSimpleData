@@ -1,0 +1,124 @@
+{
+    "seo": {
+        "keywords": [],
+        "id": "-1",
+        "__class": "YPHP\\SEOEntity"
+    },
+    "attributes": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\AttributeStorage"
+    },
+    "childrens": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\EntityStorage"
+    },
+    "parent": {
+        "id": "-1",
+        "__class": "YPHP\\Entity"
+    },
+    "name": "Vivo V20",
+    "status": {
+        "value": "NEUTRAL"
+    },
+    "note": "",
+    "dateCreated": {
+        "date": "2020-11-24 15:11:09.787205",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "ref": "\/dtdd\/vivo-v20",
+    "id": "228453",
+    "__class": "Ecomo\\Products\\ProductSociety",
+    "logo": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image",
+        "stream": null,
+        "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/228453\/vivo-v20-600-xanh-hong-400x400.jpg",
+        "alt": "Vivo V20",
+        "width": "180",
+        "height": "180",
+        "thumb": null
+    },
+    "money": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 8490000,
+        "currency": "USD"
+    },
+    "oldMoney": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "tax": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "type": "",
+    "category": {
+        "childrens": {
+            "storage": [],
+            "__class": "YPHP\\Storage\\EntityStorage"
+        },
+        "parent": {
+            "id": "-1",
+            "__class": "YPHP\\Entity"
+        },
+        "name": "",
+        "status": {
+            "value": "NEUTRAL"
+        },
+        "note": "",
+        "dateCreated": {
+            "date": "2020-11-24 15:11:09.787255",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "ref": "",
+        "id": "-1",
+        "__class": "Ecomo\\Categorys\\Category",
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": null,
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "slug": "",
+        "products": {
+            "storage": [],
+            "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+        }
+    },
+    "slug": "",
+    "availableForPurchase": false,
+    "variants": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+    },
+    "installment": 0,
+    "promo": " <p>Quà <b>300.000₫<\/b><\/p> ",
+    "discount": null,
+    "isNew": false,
+    "isFeature": false,
+    "untraImage": null,
+    "innerImage": null,
+    "description": "",
+    "script": "",
+    "ratings": {
+        "storage": [],
+        "__class": "Societymo\\Storage\\RatingStorage"
+    },
+    "compares": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+    },
+    "ratingAverage": 62,
+    "ratingCount": 4
+}

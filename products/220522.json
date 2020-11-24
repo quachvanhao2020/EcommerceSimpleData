@@ -1,0 +1,124 @@
+{
+    "seo": {
+        "keywords": [],
+        "id": "-1",
+        "__class": "YPHP\\SEOEntity"
+    },
+    "attributes": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\AttributeStorage"
+    },
+    "childrens": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\EntityStorage"
+    },
+    "parent": {
+        "id": "-1",
+        "__class": "YPHP\\Entity"
+    },
+    "name": "Samsung Galaxy Note 20 Ultra",
+    "status": {
+        "value": "NEUTRAL"
+    },
+    "note": "",
+    "dateCreated": {
+        "date": "2020-11-24 15:11:09.784849",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "ref": "\/dtdd\/samsung-galaxy-note-20-ultra",
+    "id": "220522",
+    "__class": "Ecomo\\Products\\ProductSociety",
+    "logo": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image",
+        "stream": null,
+        "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/220522\/Feature\/samsung-galaxy-note-20-ultra-spec-fixed-720x333-720x333.jpg",
+        "alt": "Samsung Galaxy Note 20 Ultra",
+        "width": "600",
+        "height": "275",
+        "thumb": null
+    },
+    "money": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 25990000,
+        "currency": "USD"
+    },
+    "oldMoney": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 29990000,
+        "currency": "USD"
+    },
+    "tax": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "type": "",
+    "category": {
+        "childrens": {
+            "storage": [],
+            "__class": "YPHP\\Storage\\EntityStorage"
+        },
+        "parent": {
+            "id": "-1",
+            "__class": "YPHP\\Entity"
+        },
+        "name": "",
+        "status": {
+            "value": "NEUTRAL"
+        },
+        "note": "",
+        "dateCreated": {
+            "date": "2020-11-24 15:11:09.785046",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "ref": "",
+        "id": "-1",
+        "__class": "Ecomo\\Categorys\\Category",
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": null,
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "slug": "",
+        "products": {
+            "storage": [],
+            "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+        }
+    },
+    "slug": "",
+    "availableForPurchase": false,
+    "variants": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+    },
+    "installment": 0,
+    "promo": " <p>Giảm thêm <b>1.000.000₫<\/b><\/p> ",
+    "discount": null,
+    "isNew": true,
+    "isFeature": false,
+    "untraImage": null,
+    "innerImage": null,
+    "description": "",
+    "script": "",
+    "ratings": {
+        "storage": [],
+        "__class": "Societymo\\Storage\\RatingStorage"
+    },
+    "compares": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+    },
+    "ratingAverage": 37,
+    "ratingCount": 4
+}
