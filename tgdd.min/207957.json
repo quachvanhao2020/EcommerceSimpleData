@@ -1,0 +1,3220 @@
+{
+    "seo": {
+        "keywords": [],
+        "id": "-1",
+        "__class": "YPHP\\SEOEntity"
+    },
+    "attributes": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\AttributeStorage"
+    },
+    "childrens": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\EntityStorage"
+    },
+    "parent": {
+        "id": "-1",
+        "__class": "YPHP\\Entity"
+    },
+    "name": "Điện thoại Nokia 105 Dual (2019)",
+    "status": {
+        "value": "NEUTRAL"
+    },
+    "note": "",
+    "dateCreated": {
+        "date": "2020-11-24 15:23:31.147121",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "ref": "",
+    "id": "207957",
+    "__class": "Ecomo\\Products\\TechProduct",
+    "logo": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image",
+        "stream": null,
+        "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-blue-400x460.png",
+        "alt": null,
+        "width": null,
+        "height": null,
+        "thumb": null
+    },
+    "money": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 370000,
+        "currency": "USD"
+    },
+    "oldMoney": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "tax": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "type": "",
+    "category": {
+        "childrens": {
+            "storage": [],
+            "__class": "YPHP\\Storage\\EntityStorage"
+        },
+        "parent": {
+            "id": "-1",
+            "__class": "YPHP\\Entity"
+        },
+        "name": "",
+        "status": {
+            "value": "NEUTRAL"
+        },
+        "note": "",
+        "dateCreated": {
+            "date": "2020-11-24 15:23:31.147191",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "ref": "",
+        "id": "-1",
+        "__class": "Ecomo\\Categorys\\Category",
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": null,
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "slug": "",
+        "products": {
+            "storage": [],
+            "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+        }
+    },
+    "slug": "",
+    "availableForPurchase": false,
+    "variants": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+    },
+    "installment": 0,
+    "promo": null,
+    "discount": null,
+    "isNew": null,
+    "isFeature": false,
+    "untraImage": null,
+    "innerImage": null,
+    "description": "",
+    "script": "",
+    "ratings": {
+        "storage": [],
+        "__class": "Societymo\\Storage\\RatingStorage"
+    },
+    "compares": {
+        "storage": [
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "Nokia 105 Dual (2019)",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.147220",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/nokia-105-2019",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-blue-400x400.jpg",
+                    "alt": null,
+                    "width": 0,
+                    "height": 0,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 370000,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147264",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": 0,
+                "promo": null,
+                "discount": null,
+                "isNew": true,
+                "isFeature": false,
+                "untraImage": null,
+                "innerImage": null,
+                "description": "",
+                "script": "",
+                "ratings": {
+                    "storage": [],
+                    "__class": "Societymo\\Storage\\RatingStorage"
+                },
+                "compares": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+                },
+                "ratingAverage": 0,
+                "ratingCount": 0
+            },
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "Nokia 105 Single SIM (2019)",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.147289",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/nokia-105-single-sim-2019",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/211934\/nokia-105-single-sim-2019-black-400x400.jpg",
+                    "alt": null,
+                    "width": 0,
+                    "height": 0,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 360000,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147327",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": 0,
+                "promo": null,
+                "discount": null,
+                "isNew": false,
+                "isFeature": false,
+                "untraImage": null,
+                "innerImage": null,
+                "description": "",
+                "script": "",
+                "ratings": {
+                    "storage": [],
+                    "__class": "Societymo\\Storage\\RatingStorage"
+                },
+                "compares": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+                },
+                "ratingAverage": 0,
+                "ratingCount": 0
+            },
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "Itel it5092",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.147350",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/itel-it5092",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/210659\/itel-it5092-gold-400x400.jpg",
+                    "alt": null,
+                    "width": 0,
+                    "height": 0,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 360000,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147399",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": 0,
+                "promo": null,
+                "discount": null,
+                "isNew": false,
+                "isFeature": false,
+                "untraImage": null,
+                "innerImage": null,
+                "description": "",
+                "script": "",
+                "ratings": {
+                    "storage": [],
+                    "__class": "Societymo\\Storage\\RatingStorage"
+                },
+                "compares": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+                },
+                "ratingAverage": 0,
+                "ratingCount": 0
+            }
+        ],
+        "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+    },
+    "ratingAverage": null,
+    "ratingCount": null,
+    "communication": {
+        "id": "5fbd2546b5764",
+        "__class": "Societymo\\Communication",
+        "comments": {
+            "storage": [
+                {
+                    "content": " Nếu cắt sóng 2g thì đt này còn nghe gọi đc k ạ",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.147445",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Trang",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.147433",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546b830a",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào chị !<br \/>Dạ hiện tại chưa có thông tin do mạng 2G vẫn chưa bị mất nên chưa có thông tin chính xác cụ thể ạ. Mong chị thông cảm ! <br \/>Thông tin đến chị ! ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.147484",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Gia Hòa",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.147474",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546b84c7",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.147462",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44267108",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147421",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44265795",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Pin e bị hư rùi, tgdd có hỗ trợ mua pin từ hãng giúp ko ạ?",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.147525",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Min",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.147515",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546b8751",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh<br \/>Dạ trường hợp này nếu mình mua sản phẩm này ở bên em thì có thể mang máy ra siêu thị để được nhân viên hỗ trợ kiểm tra và chuyển hãng thay thế giúp mình và hãng sẽ báo giá cho anh sau anh nhé.<br \/>Xin gửi thông tin đến anh ạ. ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.147562",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Trần Thanh Thiên",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.147551",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546b8903",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.147540",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44256095",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147505",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44256032",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " máy này cắt sóng 2G là ko xài đc nữa à shop ?",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.147599",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Hoàng",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.147589",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546b8dca",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh! <br \/>Dạ máy vẫn sử dụng bình thường anh nhé nhưng không thể kết nối mạng được thôi anh ạ.<br \/>Thông tin đến anh! ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.147633",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Hoàng Quý",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.147623",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546b8f7d",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.147614",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44233988",
+                                "__class": "Societymo\\Comment"
+                            },
+                            {
+                                "content": "Mạng internet hay mạng của sim ạ @Hoàng Quý:",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.147669",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": null,
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Truong",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.147659",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546b9043",
+                                    "__class": "Identimo\\User"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.147651",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44265775",
+                                "__class": "Societymo\\Comment"
+                            },
+                            {
+                                "content": "<p>Dạ mạng internet anh nhé.<\/p><p>Thông tin đến anh. <\/p>",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.147705",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Nam Hải",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.147694",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546b9205",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.147685",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44267045",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147580",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44233969",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " điện thoại không nghe gọi gì 1 ngày đã hết pin",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.147740",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Le Thanh Liem",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.147730",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546b9569",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "<p>Chào anh,<br \/>Dạ không biết điện thoại mình đã sử dụng bao lâu rồi ạ, anh thử sạc đầy lại rồi để xem còn bị tình trạng trên không anh nhé<br \/>Mong phản hồi từ anh. <\/p>",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.147775",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Quốc Khánh",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.147765",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546b9737",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.147755",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44222556",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147721",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44222506",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Máy có gắn dc sim iphone không ạ",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.147810",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Nguyên",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.147800",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546b99c7",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh, Xin lỗi đã để anh chờ lâu <br \/>Dạ nếu anh gắn NanoSIM của iPhone cho máy thì vẫn được ạ anh chỉ cần lắp sao cho phần mặt đồng của sim, lắp đúng vào vị trí các chân tiếp súc của phần khay sim là được ạ<br \/>Thông tin đến anh! ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.147844",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Quốc Hiệu",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.147835",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546b9b7c",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.147824",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44173042",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147792",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44171718",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " đag sử dụng máy này. thắc mắc : bộ nhớ sms có bị giới hạn là lưu bao nhiêu sms đầy k lưu đc nữa k admin. hỗ trợ júp m nhé. tks",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.147884",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Hao",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.147874",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546b9e05",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh ! <br \/>Dạ trường hợp này thì hãng không công bố về thông số này anh nhé.<br \/>Thông tin đến anh ! ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.147917",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Thành Luân",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.147907",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546b9fbb",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.147898",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44080830",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147864",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44080241",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Gắn sim từ iphone sang dc ko ạ . E mất phôi sim lớn rùi còn sim nano thui",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.147952",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Thanh",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.147942",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546ba257",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "<p>Chào anh ! <\/p><p>Dạ trường hợp này thì sản phẩm chỉ hỗ trợ sim thường nên nếu sim mình đã cắt rồi thì mình phải mua thêm sim thường hoặc liên hệ cửa hàng làm sim đó cho mình để được hỗ trợ anh nha.<br \/>Thông tin đến anh.<\/p>",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.147986",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Gia Hòa",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.147976",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546ba41f",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.147966",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44079184",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.147934",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44079158",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Có phải bị lỗi không<div class=\"imgCmt\"><img class='lazy' data-original=\"https:\/\/cdn.tgdd.vn\/comment\/44027878\/IMG_20201107_122131EKMXO.jpg\" onclick=\"openCmtSlide(44027878,0)\" \/><\/div>",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.148021",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Nghiêm",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.148011",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546ba6d6",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh !<br \/>Dạ với trường hợp của anh, không biết sản phẩm đang sử dụng bị như thế nào ạ, mong anh cung cấp thêm thông tin hoặc hình ảnh chụp màn hình khác để bên em có thể kiểm tra và hỗ trợ anh nhé<br \/>Mong thông tin phản hồi từ anh ! ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.148055",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Quốc Tuấn",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.148046",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546ba88c",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.148035",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44027953",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.148002",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44027878",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Có phải bị lỗi không<div class=\"imgCmt\"><img class='lazy' data-original=\"https:\/\/cdn.tgdd.vn\/comment\/44027819\/IMG_20201107_122131INBSI.jpg\" onclick=\"openCmtSlide(44027819,0)\" \/><\/div>",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.148091",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Nghiêm",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.148081",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546bab31",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh ! <br \/>Dạ trường hợp này không phải lỗi của máy, đó là tin nhắn đến ạ.<br \/>Thông tin đến anh. ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.148124",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Kim Nam",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.148115",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546bace9",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.148105",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44027850",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.148073",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44027819",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Mình cài quay số nhanh xong khi gọi nó như thế này có phải bị lỗi không<div class=\"imgCmt\"><img class='lazy' data-original=\"https:\/\/cdn.tgdd.vn\/comment\/44027810\/IMG_20201107_152644UVKBB.jpg\" onclick=\"openCmtSlide(44027810,0)\" \/><\/div>",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.148160",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Nghiêm",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.148151",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd2546baf92",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh ! <br \/>Dạ máy thông báo này là anh chưa cài quay số nhanh và lưu, anh có thể cài đặt lại xem sao anh nhé.<br \/>Thông tin đến anh. ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.148193",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Kim Nam",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.148184",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd2546bb145",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.148174",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44027827",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.148141",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44027810",
+                    "__class": "Societymo\\Comment"
+                }
+            ],
+            "__class": "Societymo\\Storage\\CommentStorage"
+        }
+    },
+    "video": null,
+    "image360": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image360",
+        "stream": null,
+        "src": null,
+        "alt": null,
+        "width": null,
+        "height": null,
+        "thumb": null,
+        "images": {
+            "storage": [
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-360-up-org-36.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-350-up-org-35.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-340-up-org-34.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-330-up-org-33.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-320-up-org-32.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-310-up-org-31.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-300-up-org-30.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-290-up-org-29.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-280-up-org-28.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-270-up-org-27.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-260-up-org-26.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-250-up-org-25.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-240-up-org-24.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-230-up-org-23.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-220-up-org-22.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-210-up-org-21.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-200-up-org-20.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-190-up-org-19.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-180-up-org-18.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-170-up-org-17.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-160-up-org-16.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-150-up-org-15.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-140-up-org-14.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-130-up-org-13.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-120-up-org-12.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-110-up-org-11.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-100-up-org-10.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-90-up-org-9.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-80-up-org-8.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-70-up-org-7.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-60-up-org-6.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-50-up-org-5.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-40-up-org-4.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-30-up-org-3.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-20-up-org-2.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Image360\/nokia-105-2019-10-up-org-1.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                }
+            ],
+            "__class": "YPHP\\Model\\Media\\Storage\\ImageStorage"
+        }
+    },
+    "combos": null,
+    "characteristics": {
+        "id": "-1",
+        "__class": "Ecomo\\Tech\\Characteristics",
+        "images": {
+            "storage": [
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Slider\/vi-vn-nokia-105-2019-thietke.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Slider\/vi-vn-nokia-105-2019-mausac.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Slider\/vi-vn-nokia-105-2019-banphim.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Slider\/vi-vn-nokia-105-2019-luutru.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Slider\/vi-vn-nokia-105-2019-pin.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Slider\/vi-vn-nokia-105-2019-game.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Slider\/vi-vn-nokia-105-2019-fmradio.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/Kit\/nokia-105-2019-bbh-org-1-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                }
+            ],
+            "__class": "YPHP\\Model\\Media\\Storage\\ImageStorage"
+        }
+    },
+    "article": {
+        "title": null,
+        "content": " <h2>Tiếp nối sự thành công của <a href=\"https:\/\/www.thegioididong.com\/dtdd\/nokia-105-single-sim-2017\" target=\"_blank\" title=\"Tham khảo giá điện thoại Nokia 105 (2017) chính hãng\">Nokia 105 (2017)<\/a> thì mới đây Nokia tiếp tục tung ra phiên bản kế nhiệm là chiếc <a href=\"https:\/\/www.thegioididong.com\/dtdd\/nokia-105-2019\" target=\"_blank\" title=\"Tham khảo giá điện thoại Nokia 105 (2019) chính hãng\">Nokia 105 (2019)<\/a> với một vài cải tiến và vẫn giữ mức giá bán hấp dẫn.<\/h2><h3>Thiết kế nhỏ gọn, đơn giản tiện dụng<\/h3><p>Người dùng không cần yêu cầu quá cao về một chiếc <a href=\"https:\/\/www.thegioididong.com\/dtdd?g=dien-thoai-pho-thong\" target=\"_blank\" title=\"Tham khảo điện thoại phổ thông tại Thế Giới Di Động\">điện thoại cục gạch<\/a> cơ bản và Nokia 105 (2019) đã làm rất tốt điều này.<\/p><p style=\"text-align: center;\"><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/207957\/nokia-105-2019-tgdd-1.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Tổng thiết kế máy\" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-tgdd-1.jpg\" class='lazy' title=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Tổng thiết kế máy\" \/><\/a><\/p><p>Bạn sẽ có một thiết bị nhỏ gọn, các góc cạnh được bo cong mềm mại cho cảm giác cầm nắm thoải mái.<\/p><p>Chiếc <a href=\"https:\/\/www.thegioididong.com\/dtdd-nokia\" target=\"_blank\" title=\"Tham khảo giá điện thoại smartphone Nokia chính hãng\">điện thoại Nokia<\/a> này có thể cho vào túi quần hay túi áo mà bạn sẽ không cảm thấy khó chịu vì nó.<\/p><p>Đặc biệt độ hoàn thiện của những chiếc máy Nokia luôn được người dùng đánh giá rất cao và bạn sẽ không cần phải lo lắng vì có lỡ làm đánh rơi máy.<\/p><h3>Khá đầy đủ các trang bị cần thiết<\/h3><p>Nokia 105 (2019) được trang bị màn hình 1.77 inch, độ phân giải 160 × 120 pixels giúp bạn có thể dễ dàng theo dõi nội dung các tin nhắn.<\/p><p><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/207957\/nokia-105-2019-tgdd-5.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Màn hình máy\" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-tgdd-5.jpg\" class='lazy' title=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Màn hình máy\" \/><\/a><\/p><p>Bàn phím T9 quen thuộc với các phím bấm được bố trí hợp lý mang lại cảm giác bấm rất thích tay.<\/p><p><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/207957\/nokia-105-2019-tgdd-4.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Cấu tạo bàn phím\" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-tgdd-4.jpg\" class='lazy' title=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Cấu tạo bàn phím\" \/><\/a><\/p><p>Chiếc máy này có khả năng lưu trữ tới 2.000 số <a href=\"https:\/\/www.thegioididong.com\/dtdd\" target=\"_blank\" title=\"Tham khảo giá điện thoại smartphone chính hãng\">điện thoại<\/a> trong danh bạ và 500 tin nhắn thoải mái đáp ứng nhu cầu của người dùng.<\/p><h3>Thời lượng pin không cần bận tâm<\/h3><p>Với Nokia 105 (2019), bạn chẳng phải lo lắng gì nhiều về vấn đề pin.<\/p><p><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/207957\/nokia-105-2019-tgdd-7.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Pin và khe sim máy\" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-tgdd-7.jpg\" class='lazy' title=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Pin và khe sim máy\" \/><\/a><\/p><p>Chiếc điện thoại này cho phép bạn đàm thoại liên tục lên đến<strong> 14.4 giờ, <\/strong>cho thời gian sử dụng các tác vụ nghe gọi nhắn tin<strong> 3 đến 5 ngày<\/strong>, theo bạn đến bất cứ nơi đâu.<\/p><p><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/207957\/nokia-105-2019-tgdd-6.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Cổng sạc và đèn pin trên máy\" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-tgdd-6.jpg\" class='lazy' title=\"Điện thoại cơ bản nghe gọi Nokia 105 2019 | Cổng sạc và đèn pin trên máy\" \/><\/a><\/p><p>Máy được trang bị cổng sạc Micro USB, jack tai nghe 3.5 mm để nghe FM Radio, và 1 đèn LED có tác dụng như đèn pin khá tiện lợi.<\/p> <div class=\"boxRtAtc\"> <div class=\"likewied\"> <div class=\"likeshare\"> <div class=\"fb-like\" data-href=\"\/dtdd\/nokia-105-2019\" data-layout=\"button_count\" data-action=\"like\" data-size=\"small\" data-show-faces=\"false\" data-share=\"true\"><\/div> <\/div> <div class=\"clr\"><\/div> <div class=\"order-review\"> <form name=\"fOrderReview\"> <div class=\"left\"> <p class=\"first-left\">Bài viết này có hữu ích cho Bạn không ?<\/p> <p class=\"before-apprise\"> <b>Cảm ơn bạn đã đánh giá bài viết này <g class=\"nt\"><\/g> !<\/b><br \/> <span>Để bài viết đạt chất lượng tốt hơn cho những lần sau! <\/span><br \/> <span>Mời Bạn chia sẻ thêm thông tin về mình.<\/span> <\/p> <\/div> <div class=\"right\"> <a href=\"javascript:void(0);\" onclick=\"chooseReview(this)\" data-val=\"good\" data-name=\"Hữu ích\" class=\"good none-i\"><i class=\"icondmx-good\"><\/i>Hữu ích<\/a> <a href=\"javascript:void(0);\" onclick=\"chooseReview(this)\" data-val=\"bad\" data-name=\"Không hữu ích\" class=\"bad none-i\"><i class=\"icondmx-bad\"><\/i>Không Hữu ích<\/a> <a class=\"replay-icon\"><\/a> <\/div> <div class=\"clr\"><\/div> <div class=\"reason bd\"> <textarea id=\"Tnote\" name=\"rs_note\" placeholder=\"Bạn có góp ý gì thêm không? (Không bắt buộc)\"><\/textarea> <p><\/p> <div class=\"dropdown\"> <span class=\"criteria\">Chọn độ tuổi<\/span> <div class=\"age\"> <a href=\"javascript:;\">18-24<\/a> <a href=\"javascript:;\">25-34<\/a> <a href=\"javascript:;\">35-44<\/a> <a href=\"javascript:;\">45-54<\/a> <a href=\"javascript:;\">55-64<\/a> <a href=\"javascript:;\">65+<\/a> <\/div> <\/div> <div class=\"dropdown\"> <span class=\"criteria\">Chọn giới tính<\/span> <div> <a href=\"javascript:;\" data-gender=\"1\">Nam<\/a> <a href=\"javascript:;\" data-gender=\"0\">Nữ<\/a> <\/div> <\/div> <a href=\"javascript:void(0);\" class=\"submit\" onclick=\"submitReview()\">Gửi góp ý<\/a> <div class=\"clr\"><\/div> <\/div> <input type=\"hidden\" id=\"fname\" value=\"Bạn\" \/> <input type=\"hidden\" id=\"fGender\" value=\"\" \/> <input type=\"hidden\" name=\"rs_phone\" value=\"\" \/> <input type=\"hidden\" name=\"rs_gender\" value=\"3\" \/> <input type=\"hidden\" name=\"rs_name\" value=\"Bạn\" \/> <input type=\"hidden\" name=\"rs_type\" value=\"3\" \/> <input type=\"hidden\" name=\"rs_productId\" value=\"207957\" \/> <input type=\"hidden\" name=\"rs_satisfationType\" value=\"0\" \/> <input type=\"hidden\" name=\"rs_age\" value=\"\" \/> <p class=\"er-content\"><\/p> <\/form> <div class=\"thank\"> <div class=\"left-thank\"> <b>Cảm ơn về thông tin bạn đã chia sẻ.<\/b><br \/> <span>Với mục tiêu nâng cao chất lượng bài viết.<\/span><br \/> <span>thegioididong sẽ luôn lắng nghe mọi ý kiến của bạn<\/span> <\/div> <div class=\"right-thank\"> <a class=\"replay-icon-thank\"><\/a> <\/div> <\/div> <\/div> <\/div> <div class=\"bifRtCt bRtAtc hide\"> <p>Mời bạn góp ý để chúng tôi phục vụ tốt hơn<\/p> <textarea name=\"txtContent\" rows=\"3\" placeholder=\"Vui lòng nhập nội dung góp ý (tối thiểu 30 ký tự)\"><\/textarea> <span>Hãy để lại thông tin để được hỗ trợ khi cần thiết (Không bắt buộc):<\/span> <div class=\"ifRtGd\" data-val=\"\"> <label onclick=\"rtAtcChangeGder(1)\" class=\"ifGdM \"><i><\/i>Anh<\/label> <label onclick=\"rtAtcChangeGder(2)\" class=\"ifGdFm\"><i><\/i>Chị<\/label> <\/div> <input type=\"text\" name=\"txtFullName\" placeholder=\"Họ tên\" value=\"\" \/> <input type=\"text\" name=\"txtPhoneNumber\" placeholder=\"Số điện thoại\" value=\"\" style=\"display:none;\" \/> <input type=\"text\" name=\"txtEmail\" placeholder=\"Email\" value=\"\" style=\"display:none;\" \/> <button type=\"submit\" onclick=\"sendRatingContent(-1)\">Gửi góp ý<span>Cam kết bảo mật thông tin cá nhân<\/span><\/button> <label class=\"alert\"><\/label> <input type=\"hidden\" name=\"hdRateType\" value=\"2\" \/> <input type=\"hidden\" name=\"hdVideoUrl\" value=\"\" \/> <\/div> <\/div> ",
+        "countComment": null,
+        "logo": null,
+        "communication": null,
+        "id": "5fbd2546a78d1",
+        "__class": "Societymo\\ArticleXX",
+        "userOwn": null,
+        "dirFileContent": null
+    },
+    "newsList": {
+        "id": "5fbd2546b2c30",
+        "__class": "Societymo\\NewsList",
+        "articles": {
+            "storage": [
+                {
+                    "title": null,
+                    "content": "Tr&#234;n tay Nokia 215 4G: Điện thoại &#39;cục gạch&#39; nhỏ gọn, thời lượng pin d&#224;i, hỗ trợ kết nối 4G v&#224; nhiều t&#237;nh năng tiện lợi",
+                    "countComment": null,
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "https:\/\/cdn.tgdd.vn\/Files\/2020\/11\/23\/1308724\/nokia2154g-35_800x450-300x200.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "communication": null,
+                    "id": "5fbd2546b559e",
+                    "__class": "Societymo\\ArticleX",
+                    "userOwn": null
+                },
+                {
+                    "title": null,
+                    "content": "Nokia 215 4G ch&#237;nh thức được mở b&#225;n, th&#234;m sự lựa chọn cho Nokia fans, chỉ với gi&#225; 750 ng&#224;n m&#224; th&#244;i",
+                    "countComment": null,
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "https:\/\/cdn.tgdd.vn\/Files\/2020\/11\/24\/1308882\/2_800x450-300x200.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "communication": null,
+                    "id": "5fbd2546b564c",
+                    "__class": "Societymo\\ArticleX",
+                    "userOwn": null
+                },
+                {
+                    "title": null,
+                    "content": "Giảm ấn tượng đến 1 triệu đồng d&#224;nh cho điện thoại Nokia v&#224; iPad, sắm ngay h&#244;m nay đừng bỏ lỡ bạn khuyến m&#227;i n&#224;y bạn nh&#233;",
+                    "countComment": null,
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "https:\/\/cdn.tgdd.vn\/Files\/2020\/11\/23\/1308622\/kmhot2411_800x450-300x200.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "communication": null,
+                    "id": "5fbd2546b56eb",
+                    "__class": "Societymo\\ArticleX",
+                    "userOwn": null
+                }
+            ],
+            "__class": "Societymo\\Storage\\ArticleStorage"
+        }
+    },
+    "accessories": null,
+    "phoneParameter": {
+        "html": " <li class=\"p207957 g6459_79_6239\"><span>Màn hình:<\/span><div><a href='https:\/\/www.thegioididong.com\/hoi-dap\/man-hinh-tft-lcd-la-gi-905743' target='_blank'>TFT LCD<\/a>, 1.77\", 65.536 màu<\/div><\/li><li class=\"p207957 g54\"><span>Danh bạ:<\/span><div>2000 số<\/div><\/li><li class=\"p207957 g48\"><span>Jack cắm tai nghe:<\/span><div>3.5 mm<\/div><\/li><li class=\"p207957 g34\"><span>Radio FM:<\/span><div>Có<\/div><\/li><li class=\"p207957 g84\"><span>Dung lượng pin:<\/span><div>800 mAh<\/div><\/li> "
+    },
+    "imageRepresent": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\ImageRepresent",
+        "stream": null,
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-pink-200-180x125.png",
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "images": {
+            "storage": [
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-1-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-1-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-2-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-2-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-3-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-3-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-4-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-4-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-5-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-5-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-6-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-6-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-7-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/207957\/nokia-105-2019-hong-7-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                }
+            ],
+            "__class": "YPHP\\Model\\Media\\Storage\\ImageStorage"
+        }
+    },
+    "videos": null,
+    "cameraImageRepresent": null
+}

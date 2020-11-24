@@ -1,0 +1,3200 @@
+{
+    "seo": {
+        "keywords": [],
+        "id": "-1",
+        "__class": "YPHP\\SEOEntity"
+    },
+    "attributes": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\AttributeStorage"
+    },
+    "childrens": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\EntityStorage"
+    },
+    "parent": {
+        "id": "-1",
+        "__class": "YPHP\\Entity"
+    },
+    "name": "Điện thoại Masstel IZI 206",
+    "status": {
+        "value": "NEUTRAL"
+    },
+    "note": "",
+    "dateCreated": {
+        "date": "2020-11-24 15:23:31.169646",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "ref": "",
+    "id": "212190",
+    "__class": "Ecomo\\Products\\TechProduct",
+    "logo": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image",
+        "stream": null,
+        "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-blue-400x460.png",
+        "alt": null,
+        "width": null,
+        "height": null,
+        "thumb": null
+    },
+    "money": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 290000,
+        "currency": "USD"
+    },
+    "oldMoney": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "tax": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "type": "",
+    "category": {
+        "childrens": {
+            "storage": [],
+            "__class": "YPHP\\Storage\\EntityStorage"
+        },
+        "parent": {
+            "id": "-1",
+            "__class": "YPHP\\Entity"
+        },
+        "name": "",
+        "status": {
+            "value": "NEUTRAL"
+        },
+        "note": "",
+        "dateCreated": {
+            "date": "2020-11-24 15:23:31.169767",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "ref": "",
+        "id": "-1",
+        "__class": "Ecomo\\Categorys\\Category",
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": null,
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "slug": "",
+        "products": {
+            "storage": [],
+            "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+        }
+    },
+    "slug": "",
+    "availableForPurchase": false,
+    "variants": {
+        "storage": [],
+        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+    },
+    "installment": 0,
+    "promo": null,
+    "discount": null,
+    "isNew": null,
+    "isFeature": false,
+    "untraImage": null,
+    "innerImage": null,
+    "description": "",
+    "script": "",
+    "ratings": {
+        "storage": [],
+        "__class": "Societymo\\Storage\\RatingStorage"
+    },
+    "compares": {
+        "storage": [
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "Masstel IZI 206",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.169796",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/masstel-izi-206",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-blue-400x400.jpg",
+                    "alt": null,
+                    "width": 0,
+                    "height": 0,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 290000,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.169845",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": 0,
+                "promo": null,
+                "discount": null,
+                "isNew": true,
+                "isFeature": false,
+                "untraImage": null,
+                "innerImage": null,
+                "description": "",
+                "script": "",
+                "ratings": {
+                    "storage": [],
+                    "__class": "Societymo\\Storage\\RatingStorage"
+                },
+                "compares": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+                },
+                "ratingAverage": 0,
+                "ratingCount": 0
+            },
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "Mobell M339",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.169878",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/mobell-m339",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/139913\/mobell-m339-1-200x200.jpg",
+                    "alt": null,
+                    "width": 0,
+                    "height": 0,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 290000,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.169924",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": 0,
+                "promo": null,
+                "discount": null,
+                "isNew": false,
+                "isFeature": false,
+                "untraImage": null,
+                "innerImage": null,
+                "description": "",
+                "script": "",
+                "ratings": {
+                    "storage": [],
+                    "__class": "Societymo\\Storage\\RatingStorage"
+                },
+                "compares": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+                },
+                "ratingAverage": 0,
+                "ratingCount": 0
+            },
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "Itel it6120",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.169961",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/itel-it6120",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/200045\/itel-it6120-400x400.jpg",
+                    "alt": null,
+                    "width": 0,
+                    "height": 0,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 280000,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170021",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": 0,
+                "promo": null,
+                "discount": null,
+                "isNew": true,
+                "isFeature": false,
+                "untraImage": null,
+                "innerImage": null,
+                "description": "",
+                "script": "",
+                "ratings": {
+                    "storage": [],
+                    "__class": "Societymo\\Storage\\RatingStorage"
+                },
+                "compares": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+                },
+                "ratingAverage": 0,
+                "ratingCount": 0
+            }
+        ],
+        "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+    },
+    "ratingAverage": null,
+    "ratingCount": null,
+    "communication": {
+        "id": "5fbd255c32d77",
+        "__class": "Societymo\\Communication",
+        "comments": {
+            "storage": [
+                {
+                    "content": " Máy này nghe radio cần tai nghe không",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.170072",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Tai",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170060",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c35fc8",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh,<br \/>Dạ theo thông tin em kiểm tra thì điện thoại này cần tai nghe mới dùng được radio anh nhé<br \/>Thông tin đến anh. ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170117",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Quốc Khánh",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170100",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c362e9",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170088",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44262877",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170049",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44262857",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Masstel 206 đàm thoại toàn phát luôn ra loa ngoài, không có sự riêng tư gì hết, ADD cho cách khắc phục nhe. Chứ kiểu này thì chắc bán điện thoại luôn á. Các chức năng, tính năng đều tốt, mà chức năng đàm thoại cơ bản riêng tư này thì lại rất tệ. Giờ tôi phải sống sao đây? khi đàm thoại mà xung quanh nghe hết.",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.170160",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Mr.Thiều",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170150",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c36675",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh ! <br \/>Dạ trường hợp này anh thử vào cài đặt > âm lượng > cuộc gọi > chỉnh lại âm lượng cuộc gọi hoặc sau khi bấm gọi hoặc nhận cuộc gọi anh thử nhấn nút mũi tên xuống hoặc mũi tên qua trái xem sao ạ.<br \/>Thông tin đến anh. ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170195",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Kim Nam",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170186",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c3685d",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170174",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44259540",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170138",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44259506",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Qtv cho e hỏi 1-2 năm nữa nước ta tắt sóng 2G thì các máy phổ thông như vậy có dùng được nữa ko ạ?",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.170243",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Min",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170223",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c36b44",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh !<br \/>Dạ trường hợp này máy các điện thoại trên vẫn có thể dùng được nha anh, miễn sao sim sử dụng là 3G,4G là được ạ<br \/>Thông tin đến anh ! ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170297",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Gia Hòa",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170282",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c36d1b",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170267",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44256178",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170213",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44256129",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " ADD cho hỏi, Masstel izi 206 đã chọn nhạc chuông từ thẻ nhớ rồi, mà sao khi có cuộc gọi đến thì vẫn dùng nhạc chuông mặc định của máy vậy. nó không lưu kiều nhạc Mp3 à? cho hỏi kiểu nhạc chuông của máy có phải Midi không? xin cảm ơn.",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.170354",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Mr.Thiều",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170338",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c37274",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh ! <br \/>Dạ trường hợp này thì không biết anh đã cài nhạc chuông đó và anh có tháo thẻ nhớ ra không ạ, Anh giúp em thử cài nhạc chuông khác xem sao ạ.Và về kiểu nhạc chuông là Midi thì em không hiểu lắm về vấn đề này nên anh có thể cung cấp thông tin cụ thể hơn để em có thể kiểm tra giúp anh được không ạ.<br \/>Mong thông tin phản hồi từ anh !",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170418",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Thành Luân",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170401",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c3743f",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170378",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44251556",
+                                "__class": "Societymo\\Comment"
+                            },
+                            {
+                                "content": " @Thành Luân: Sao khi chọn nhạc MP3 từ thẻ nhớ rồi thì phải bấm thêm công đoạn Lưu Lại thì nó mới Save, không thì nó lại về mặc định. một pha xử lý cồng kềnh so với Nokia. Nhưng mọi thứ thì quá OK, chỉ mỗi tội là chưa giải quyết được cái nhận điện thoại mà cả thế giới xung quanh đều nghe hai bên đàm thoại mới ghê chớ, không một chút riêng tư gì hết.",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170467",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": null,
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Mr.Thiều",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170457",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c37510",
+                                    "__class": "Identimo\\User"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170445",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44259591",
+                                "__class": "Societymo\\Comment"
+                            },
+                            {
+                                "content": "Dạ trường hợp này anh thử vào cài đặt > âm lượng > cuộc gọi > chỉnh lại âm lượng cuộc gọi hoặc sau khi bấm gọi hoặc nhận cuộc gọi anh thử nhấn nút mũi tên xuống hoặc mũi tên qua trái xem sao ạ.<br \/>Thông tin đến anh.",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170504",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Kim Nam",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170494",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c376d5",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170484",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44259633",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170322",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44251448",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " SP còn ko shop",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.170541",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Phạm Doanh",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170531",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c379a1",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh,<br \/>Dạ anh vui lòng cho em xin thông tin cụ thể mình quan tâm là gì ạ để bên em kiểm tra và thông tin cho mình anh nhé.<br \/>Mong phản hồi từ anh.",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170595",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Phi Phụng",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170585",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c37b6c",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170555",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44218037",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170522",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44218032",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Sản phẩm này có kết nối được với tai nghe bluetooth không ?",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.170633",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Việt Anh",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170623",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c37e3c",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Dạ chào anh , <br \/>Dạ theo kiểm tra thì điện thoại này không hỗ trợ kết nối được với tai nghe Bluetooth anh nhé<br \/>Thông tin đến anh ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170701",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Quốc Tú",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170692",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c380b2",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170682",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44214074",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170613",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44214052",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " máy này có đc giảm giá trong 3 ngày 9,10, 11 k ạ",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.170752",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Thám",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170738",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c38458",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh. <br \/>Sản phẩm này hiện chưa có khuyến mãi giảm giá ạ.Mong anh thông cảm <br \/>Thông tin đến anh",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170788",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Nguyễn Đình Thắng",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170779",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c38627",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170769",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44086643",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170723",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44086634",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Vui lòng hướng dẩn mình cách chỉnh âm lượng máy izi 206",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.170837",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Lê Thị Tường Vi",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170824",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c388f9",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào chị!<br \/>Dạ đối với cuộc gọi chị giúp em nhấn nút lên\/xuống hoặc trái\/phải để tăng\/giảm âm lượng, đối với nghe nhạc chị nhấn dấu # hoặc dấu * để tăng\/giảm âm lượng xem sao chị nhé.<br \/>Thông tin đến chị. ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170883",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Quốc Anh",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170867",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c38abe",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170851",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "43974366",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170812",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "43974270",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " sản phẩm này có ở điện máy xanh Krông Bông không ạ?",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.170933",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Hằng",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170923",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c38db1",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào chị. <br \/>Dạ bên em kiểm tra hiện tại sản phẩm này đang còn hàng ở khu vực của mình tại Điện Máy Xanh 258 Nguyễn Tất Thành, Tổ dân phố 5, TT. Krông Kmar, H. Krông Bông, T. Đắk Lắk (Cách bến xe 50m) nha chị. Nếu quan tâm sản phẩm chị có thể cho bên em xin số điện thoại để bên em hỗ trợ đặt hàng cho mình chị nha. <br \/>Mong nhận phản hồi từ chị",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.170971",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Nguyễn Đình Thắng",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.170959",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c38f73",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.170948",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "43928761",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170912",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "43928752",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Dạ anh ơi máy này có đem được tận nhà không anh",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.171009",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Nguyễn Thị Hoa",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.170999",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd255c39231",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào chị <br \/>Dạ sản phẩm có giao tận nơi chị nha, nếu mình quan tâm, mình vui lòng thông tin thêm số điện thoại để được hỗ trợ đặt hàng ạ <br \/>Mong nhận phản hồi từ chị.",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.171044",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Ánh Tuyết",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.171035",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd255c393fa",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.171025",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "43865286",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.170990",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "43865275",
+                    "__class": "Societymo\\Comment"
+                }
+            ],
+            "__class": "Societymo\\Storage\\CommentStorage"
+        }
+    },
+    "video": null,
+    "image360": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image360",
+        "stream": null,
+        "src": null,
+        "alt": null,
+        "width": null,
+        "height": null,
+        "thumb": null,
+        "images": {
+            "storage": [
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-360-org-36.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-350-org-35.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-340-org-34.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-330-org-33.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-320-org-32.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-310-org-31.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-300-org-30.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-290-org-29.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-280-org-28.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-270-org-27.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-260-org-26.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-250-org-25.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-240-org-24.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-230-org-23.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-220-org-22.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-210-org-21.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-200-org-20.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-190-org-19.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-180-org-18.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-170-org-17.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-160-org-16.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-150-org-15.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-140-org-14.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-130-org-13.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-120-org-12.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-110-org-11.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-100-org-10.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-90-org-9.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-80-org-8.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-70-org-7.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-60-org-6.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-50-org-5.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-40-org-4.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-30-org-3.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-20-org-2.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Image360\/masstel-izi-206-10-org-1.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                }
+            ],
+            "__class": "YPHP\\Model\\Media\\Storage\\ImageStorage"
+        }
+    },
+    "combos": null,
+    "characteristics": {
+        "id": "-1",
+        "__class": "Ecomo\\Tech\\Characteristics",
+        "images": {
+            "storage": [
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Slider\/vi-vn-masstel-izi-206-thietke.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Slider\/-masstel-izi-206-pin.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Slider\/-masstel-izi-206-manhinh.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Slider\/vi-vn-masstel-izi-206-kichthuoc.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Slider\/vi-vn-masstel-izi-206-banphim.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/Kit\/masstel-izi-206-bbh-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                }
+            ],
+            "__class": "YPHP\\Model\\Media\\Storage\\ImageStorage"
+        }
+    },
+    "article": {
+        "title": null,
+        "content": " <h2><a href=\"https:\/\/www.thegioididong.com\/dtdd\/masstel-izi-206\" target=\"_blank\" title=\"Tham khảo điện thoại Masstel IZI 206 chính hãng\">Masstel IZI 206<\/a> là một chiếc <a href=\"https:\/\/www.thegioididong.com\/dtdd?g=dien-thoai-pho-thong\" target=\"_blank\" title=\"Tham khảo điện thoại phổ thông tại Thế Giới Di Động\">điện thoại cục gạch<\/a> cơ bản với ưu điểm là mức giá phải chăng, phù hợp với nhiều đối tượng người dùng.<\/h2><h3>Thiết kế đơn giản, nhỏ gọn<\/h3><p>Dù là dòng máy phổ thông nhưng chiếc điện thoại được Masstel vẫn rất nổi bật thiết kế rất nhỏ gọn, làm bằng nhựa polycarbonate với độ bền cao, dễ dàng mang theo bên mình. <\/p><p style=\"text-align: center;\"><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/212190\/masstel-izi-206.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại Masstel IZI 206 | Thiết kế\" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206.jpg\" class='lazy' title=\"Điện thoại Masstel IZI 206 | Thiết kế\" \/><\/a><\/p><p>Kích thước nhỏ nhắn nằm gọn trong lòng bàn tay giúp bạn dễ dàng cho vào túi mà không cảm thấy khó chịu.<\/p><p>Màn hình của máy được trang bị kích thước 2.4 inch đảm bảo cho bạn có một không gian vừa đủ để trải nhiệm một cách thuận tiện.<\/p><p><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/212190\/masstel-izi-206-2.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại Masstel IZI 206 | Bàn phím T9 thuận tiện\" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-2.jpg\" class='lazy' title=\"Điện thoại Masstel IZI 206 | Bàn phím T9 thuận tiện\" \/><\/a><\/p><p>Bàn phím dạng T9 rất quen thuộc cho phép người dùng làm quen và nhập liệu rất dễ dàng.<\/p><h3>Đầy đủ tính năng giải trí cơ bản<\/h3><p>Chiếc <a href=\"https:\/\/www.thegioididong.com\/dtdd\" target=\"_blank\" title=\"Tham khảo các dòng điện thoại chính hãng\">điện thoại<\/a> này được trang bị một camera độ phân giải 0.08 MP để chụp ảnh, quay video cơ bản.<\/p><p><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/212190\/masstel-izi-206-4.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại Masstel IZI 206 | Thiết kế camera sau\" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-4.jpg\" class='lazy' title=\"Điện thoại Masstel IZI 206 | Thiết kế camera sau\" \/><\/a><\/p><p>Loa ngoài lớn với nhiều tiện ích như xem ảnh, video, nghe nhạc hay radio dễ dàng.<\/p><p>Hơn nữa bạn còn có thể nghe nhạc bằng việc sử dụng một chiếc thẻ nhớ mở rộng bên ngoài.<\/p><h3>Pin tốt xài lâu<\/h3><p>Masstel IZI 206 được ưu ái trang bị viên pin có dung lượng lên tới 1450 mAh giúp bạn có thể <strong>sử dụng thoải mái trong khoảng 4-5 ngày liên tục<\/strong>.<\/p><p><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/212190\/masstel-izi-206-5.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại Masstel IZI 206 | Thời lượng pin lớn, có thể tháo rời\" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-5.jpg\" class='lazy' title=\"Điện thoại Masstel IZI 206 | Thời lượng pin lớn, có thể tháo rời\" \/><\/a><\/p><p>Máy cũng dễ dàng tháo nắp lưng để có thể thay thế pin khi cần thiết.<\/p><p>Ngoài ra tính năng 2 SIM 2 sóng chắc chắn sẽ là một ưu điểm lớn để người dùng có thể tận dụng tối đa khuyến mãi tới từ các nhà mạng.<\/p> <div class=\"boxRtAtc\"> <div class=\"likewied\"> <div class=\"likeshare\"> <div class=\"fb-like\" data-href=\"\/dtdd\/masstel-izi-206\" data-layout=\"button_count\" data-action=\"like\" data-size=\"small\" data-show-faces=\"false\" data-share=\"true\"><\/div> <\/div> <div class=\"clr\"><\/div> <div class=\"order-review\"> <form name=\"fOrderReview\"> <div class=\"left\"> <p class=\"first-left\">Bài viết này có hữu ích cho Bạn không ?<\/p> <p class=\"before-apprise\"> <b>Cảm ơn bạn đã đánh giá bài viết này <g class=\"nt\"><\/g> !<\/b><br \/> <span>Để bài viết đạt chất lượng tốt hơn cho những lần sau! <\/span><br \/> <span>Mời Bạn chia sẻ thêm thông tin về mình.<\/span> <\/p> <\/div> <div class=\"right\"> <a href=\"javascript:void(0);\" onclick=\"chooseReview(this)\" data-val=\"good\" data-name=\"Hữu ích\" class=\"good none-i\"><i class=\"icondmx-good\"><\/i>Hữu ích<\/a> <a href=\"javascript:void(0);\" onclick=\"chooseReview(this)\" data-val=\"bad\" data-name=\"Không hữu ích\" class=\"bad none-i\"><i class=\"icondmx-bad\"><\/i>Không Hữu ích<\/a> <a class=\"replay-icon\"><\/a> <\/div> <div class=\"clr\"><\/div> <div class=\"reason bd\"> <textarea id=\"Tnote\" name=\"rs_note\" placeholder=\"Bạn có góp ý gì thêm không? (Không bắt buộc)\"><\/textarea> <p><\/p> <div class=\"dropdown\"> <span class=\"criteria\">Chọn độ tuổi<\/span> <div class=\"age\"> <a href=\"javascript:;\">18-24<\/a> <a href=\"javascript:;\">25-34<\/a> <a href=\"javascript:;\">35-44<\/a> <a href=\"javascript:;\">45-54<\/a> <a href=\"javascript:;\">55-64<\/a> <a href=\"javascript:;\">65+<\/a> <\/div> <\/div> <div class=\"dropdown\"> <span class=\"criteria\">Chọn giới tính<\/span> <div> <a href=\"javascript:;\" data-gender=\"1\">Nam<\/a> <a href=\"javascript:;\" data-gender=\"0\">Nữ<\/a> <\/div> <\/div> <a href=\"javascript:void(0);\" class=\"submit\" onclick=\"submitReview()\">Gửi góp ý<\/a> <div class=\"clr\"><\/div> <\/div> <input type=\"hidden\" id=\"fname\" value=\"Bạn\" \/> <input type=\"hidden\" id=\"fGender\" value=\"\" \/> <input type=\"hidden\" name=\"rs_phone\" value=\"\" \/> <input type=\"hidden\" name=\"rs_gender\" value=\"3\" \/> <input type=\"hidden\" name=\"rs_name\" value=\"Bạn\" \/> <input type=\"hidden\" name=\"rs_type\" value=\"3\" \/> <input type=\"hidden\" name=\"rs_productId\" value=\"212190\" \/> <input type=\"hidden\" name=\"rs_satisfationType\" value=\"0\" \/> <input type=\"hidden\" name=\"rs_age\" value=\"\" \/> <p class=\"er-content\"><\/p> <\/form> <div class=\"thank\"> <div class=\"left-thank\"> <b>Cảm ơn về thông tin bạn đã chia sẻ.<\/b><br \/> <span>Với mục tiêu nâng cao chất lượng bài viết.<\/span><br \/> <span>thegioididong sẽ luôn lắng nghe mọi ý kiến của bạn<\/span> <\/div> <div class=\"right-thank\"> <a class=\"replay-icon-thank\"><\/a> <\/div> <\/div> <\/div> <\/div> <div class=\"bifRtCt bRtAtc hide\"> <p>Mời bạn góp ý để chúng tôi phục vụ tốt hơn<\/p> <textarea name=\"txtContent\" rows=\"3\" placeholder=\"Vui lòng nhập nội dung góp ý (tối thiểu 30 ký tự)\"><\/textarea> <span>Hãy để lại thông tin để được hỗ trợ khi cần thiết (Không bắt buộc):<\/span> <div class=\"ifRtGd\" data-val=\"\"> <label onclick=\"rtAtcChangeGder(1)\" class=\"ifGdM \"><i><\/i>Anh<\/label> <label onclick=\"rtAtcChangeGder(2)\" class=\"ifGdFm\"><i><\/i>Chị<\/label> <\/div> <input type=\"text\" name=\"txtFullName\" placeholder=\"Họ tên\" value=\"\" \/> <input type=\"text\" name=\"txtPhoneNumber\" placeholder=\"Số điện thoại\" value=\"\" style=\"display:none;\" \/> <input type=\"text\" name=\"txtEmail\" placeholder=\"Email\" value=\"\" style=\"display:none;\" \/> <button type=\"submit\" onclick=\"sendRatingContent(-1)\">Gửi góp ý<span>Cam kết bảo mật thông tin cá nhân<\/span><\/button> <label class=\"alert\"><\/label> <input type=\"hidden\" name=\"hdRateType\" value=\"2\" \/> <input type=\"hidden\" name=\"hdVideoUrl\" value=\"\" \/> <\/div> <\/div> ",
+        "countComment": null,
+        "logo": null,
+        "communication": null,
+        "id": "5fbd255c23089",
+        "__class": "Societymo\\ArticleXX",
+        "userOwn": null,
+        "dirFileContent": null
+    },
+    "newsList": {
+        "id": "5fbd255c2fdf9",
+        "__class": "Societymo\\NewsList",
+        "articles": {
+            "storage": [
+                {
+                    "title": null,
+                    "content": "Tr&#234;n tay Masstel Hapi 10: Smartphone d&#224;nh cho người gi&#224;, nhỏ gọn, đơn giản, dễ d&#249;ng",
+                    "countComment": null,
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "https:\/\/cdn.tgdd.vn\/Files\/2020\/07\/07\/1268384\/masstelhapi10-14_1280x720-300x200.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "communication": null,
+                    "id": "5fbd255c32bf8",
+                    "__class": "Societymo\\ArticleX",
+                    "userOwn": null
+                },
+                {
+                    "title": null,
+                    "content": "Cơ hội nhận ưu đ&#227;i khủng trong th&#225;ng 11, mua tablet Lenovo v&#224; Masstel dịp tết độc th&#226;n được giảm sốc đến 660k, sắm ngay nh&#233;",
+                    "countComment": null,
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "https:\/\/cdn.tgdd.vn\/Files\/2020\/11\/07\/1305296\/dealngoncuathangmaytinhbangcualenovovamassteldonggiamgia_800x450-300x200.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "communication": null,
+                    "id": "5fbd255c32c83",
+                    "__class": "Societymo\\ArticleX",
+                    "userOwn": null
+                },
+                {
+                    "title": null,
+                    "content": "Sắm Masstel Tab 10 Ultra nhận ngay liền tay điện thoại chất trị gi&#225; l&#234;n đến 400k, mua 1 được 2 ngại g&#236; m&#224; bỏ lỡ",
+                    "countComment": null,
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "https:\/\/cdn.tgdd.vn\/Files\/2020\/10\/23\/1301242\/1_800x450-300x200.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "communication": null,
+                    "id": "5fbd255c32cff",
+                    "__class": "Societymo\\ArticleX",
+                    "userOwn": null
+                }
+            ],
+            "__class": "Societymo\\Storage\\ArticleStorage"
+        }
+    },
+    "accessories": null,
+    "phoneParameter": {
+        "html": " <li class=\"p212190 g6459_79_6239\"><span>Màn hình:<\/span><div><a href='https:\/\/www.thegioididong.com\/hoi-dap\/man-hinh-tft-lcd-la-gi-905743' target='_blank'>TFT LCD<\/a>, 2.4\", 65.536 màu<\/div><\/li><li class=\"p212190 g54\"><span>Danh bạ:<\/span><div>300 số<\/div><\/li><li class=\"p212190 g52\"><span>Thẻ nhớ ngoài:<\/span><div><a href='https:\/\/www.thegioididong.com\/the-nho-dien-thoai\/the-nho-microsd-32gb-class-10' target='_blank'>MicroSD, hỗ trợ tối đa 32 GB<\/a><\/div><\/li><li class=\"p212190 g27\"><span>Camera:<\/span><div>0.08 MP<\/div><\/li><li class=\"p212190 g48\"><span>Jack cắm tai nghe:<\/span><div>3.5 mm<\/div><\/li><li class=\"p212190 g34\"><span>Radio FM:<\/span><div>Có<\/div><\/li><li class=\"p212190 g84\"><span>Dung lượng pin:<\/span><div>1450 mAh<\/div><\/li> "
+    },
+    "imageRepresent": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\ImageRepresent",
+        "stream": null,
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-blue-200-180x125.png",
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "images": {
+            "storage": [
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-1-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-1-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-2-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-2-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-3-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-3-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-4-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-4-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-5-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-5-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-6-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-6-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-7-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/212190\/masstel-izi-206-xanh-duong-7-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                }
+            ],
+            "__class": "YPHP\\Model\\Media\\Storage\\ImageStorage"
+        }
+    },
+    "videos": null,
+    "cameraImageRepresent": null
+}

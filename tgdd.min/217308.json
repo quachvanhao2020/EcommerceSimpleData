@@ -1,0 +1,3026 @@
+{
+    "seo": {
+        "keywords": [],
+        "id": "-1",
+        "__class": "YPHP\\SEOEntity"
+    },
+    "attributes": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\AttributeStorage"
+    },
+    "childrens": {
+        "storage": [],
+        "__class": "YPHP\\Storage\\EntityStorage"
+    },
+    "parent": {
+        "id": "-1",
+        "__class": "YPHP\\Entity"
+    },
+    "name": "Điện thoại Xiaomi Redmi 9 (4GB\/64GB)",
+    "status": {
+        "value": "NEUTRAL"
+    },
+    "note": "",
+    "dateCreated": {
+        "date": "2020-11-24 15:23:31.193938",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "ref": "",
+    "id": "217308",
+    "__class": "Ecomo\\Products\\TechProduct",
+    "logo": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\Image",
+        "stream": null,
+        "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-114620-094649-400x460.png",
+        "alt": null,
+        "width": null,
+        "height": null,
+        "thumb": null
+    },
+    "money": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 3990000,
+        "currency": "USD"
+    },
+    "oldMoney": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "tax": {
+        "id": "-1",
+        "__class": "Ecomo\\Money",
+        "price": 0,
+        "currency": "USD"
+    },
+    "type": "",
+    "category": {
+        "childrens": {
+            "storage": [],
+            "__class": "YPHP\\Storage\\EntityStorage"
+        },
+        "parent": {
+            "id": "-1",
+            "__class": "YPHP\\Entity"
+        },
+        "name": "",
+        "status": {
+            "value": "NEUTRAL"
+        },
+        "note": "",
+        "dateCreated": {
+            "date": "2020-11-24 15:23:31.193991",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "ref": "",
+        "id": "-1",
+        "__class": "Ecomo\\Categorys\\Category",
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": null,
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "slug": "",
+        "products": {
+            "storage": [],
+            "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+        }
+    },
+    "slug": "",
+    "availableForPurchase": false,
+    "variants": {
+        "storage": [
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.194016",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/xiaomi-redmi-9-3gb",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": null,
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194060",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": null,
+                "promo": null,
+                "discount": null,
+                "isNew": null,
+                "isFeature": null,
+                "untraImage": null,
+                "innerImage": null,
+                "description": null,
+                "script": null,
+                "ratings": null,
+                "compares": null,
+                "ratingAverage": null,
+                "ratingCount": null
+            },
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.194079",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/xiaomi-redmi-9",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": null,
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194115",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": null,
+                "promo": null,
+                "discount": null,
+                "isNew": null,
+                "isFeature": null,
+                "untraImage": null,
+                "innerImage": null,
+                "description": null,
+                "script": null,
+                "ratings": null,
+                "compares": null,
+                "ratingAverage": null,
+                "ratingCount": null
+            }
+        ],
+        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+    },
+    "installment": 0,
+    "promo": null,
+    "discount": null,
+    "isNew": null,
+    "isFeature": false,
+    "untraImage": null,
+    "innerImage": null,
+    "description": "",
+    "script": "",
+    "ratings": {
+        "storage": [],
+        "__class": "Societymo\\Storage\\RatingStorage"
+    },
+    "compares": {
+        "storage": [
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "Xiaomi Redmi 9 (4GB\/64GB)",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.194136",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/xiaomi-redmi-9",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-114620-094644-400x400.jpg",
+                    "alt": null,
+                    "width": 0,
+                    "height": 0,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 3990000,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194168",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": 0,
+                "promo": null,
+                "discount": null,
+                "isNew": false,
+                "isFeature": false,
+                "untraImage": null,
+                "innerImage": null,
+                "description": "",
+                "script": "",
+                "ratings": {
+                    "storage": [],
+                    "__class": "Societymo\\Storage\\RatingStorage"
+                },
+                "compares": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+                },
+                "ratingAverage": 0,
+                "ratingCount": 0
+            },
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "Xiaomi Redmi 8 (3GB\/32GB)",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.194188",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/xiaomi-redmi-8",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/209796\/xiaomi-redmi-8-blue-400x400.jpg",
+                    "alt": null,
+                    "width": 0,
+                    "height": 0,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194218",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": 0,
+                "promo": null,
+                "discount": null,
+                "isNew": false,
+                "isFeature": false,
+                "untraImage": null,
+                "innerImage": null,
+                "description": "Ngừng kinh doanh",
+                "script": "",
+                "ratings": {
+                    "storage": [],
+                    "__class": "Societymo\\Storage\\RatingStorage"
+                },
+                "compares": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+                },
+                "ratingAverage": 0,
+                "ratingCount": 0
+            },
+            {
+                "seo": {
+                    "keywords": [],
+                    "id": "-1",
+                    "__class": "YPHP\\SEOEntity"
+                },
+                "attributes": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\AttributeStorage"
+                },
+                "childrens": {
+                    "storage": [],
+                    "__class": "YPHP\\Storage\\EntityStorage"
+                },
+                "parent": {
+                    "id": "-1",
+                    "__class": "YPHP\\Entity"
+                },
+                "name": "Vsmart Active 3 (6GB\/64GB)",
+                "status": {
+                    "value": "NEUTRAL"
+                },
+                "note": "",
+                "dateCreated": {
+                    "date": "2020-11-24 15:23:31.194240",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                },
+                "ref": "\/dtdd\/vsmart-active-3-6gb",
+                "id": "-1",
+                "__class": "Ecomo\\Products\\ProductSociety",
+                "logo": {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217438\/vsmart-active-3-6gb-emerald-green-600x600-400x400.jpg",
+                    "alt": null,
+                    "width": 0,
+                    "height": 0,
+                    "thumb": null
+                },
+                "money": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 3990000,
+                    "currency": "USD"
+                },
+                "oldMoney": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "tax": {
+                    "id": "-1",
+                    "__class": "Ecomo\\Money",
+                    "price": 0,
+                    "currency": "USD"
+                },
+                "type": "",
+                "category": {
+                    "childrens": {
+                        "storage": [],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194271",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "-1",
+                    "__class": "Ecomo\\Categorys\\Category",
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": null,
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "slug": "",
+                    "products": {
+                        "storage": [],
+                        "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                    }
+                },
+                "slug": "",
+                "availableForPurchase": false,
+                "variants": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductStorage"
+                },
+                "installment": 0,
+                "promo": null,
+                "discount": null,
+                "isNew": false,
+                "isFeature": false,
+                "untraImage": null,
+                "innerImage": null,
+                "description": "",
+                "script": "",
+                "ratings": {
+                    "storage": [],
+                    "__class": "Societymo\\Storage\\RatingStorage"
+                },
+                "compares": {
+                    "storage": [],
+                    "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+                },
+                "ratingAverage": 0,
+                "ratingCount": 0
+            }
+        ],
+        "__class": "Ecomo\\Products\\Storage\\ProductSocietyStorage"
+    },
+    "ratingAverage": null,
+    "ratingCount": null,
+    "communication": {
+        "id": "5fbd256da11e1",
+        "__class": "Societymo\\Communication",
+        "comments": {
+            "storage": [
+                {
+                    "content": " TGDĐ- CN Bến Cam 340 Lý Thái Tổ, Bến Cam, Nhơn Trạch, Đồng Nai xem giùm mik tại địa chỉ này còn màu xám ko ad?",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.194347",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Hiếu",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.194337",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da4160",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "<div class=\"conticon\"><div class=\"content_s\"> Chào anh. <br \/>Dạ bên em kiểm tra hiện tại sản phẩm này đang tạm hết hàng tại khu vực Số 340, Lý Thái Tổ, ấp Bến Cam, xã Phước Thiền, H. Nhơn Trạch, T. Đồng Nai ạ.<br \/>Dạ bên em kiểm tra hiện tại sản phẩm này đang còn hàng ở khu vực của mình tại <br \/>Số 130 Tôn Đức Thắng, Ấp 3, xã Hiệp Phước, H.Nhơn Trạch, T.Đồng Nai.<br \/>Số 808 đường Hùng Vương, ấp 1, xã Long Thọ, H. Nhơn Trạch, T. Đồng Nai<br \/>Điện Máy Xanh Số 104 Tôn Đức Thắng, ấp 3, X. Hiệp Phước, H. Nhơn Trạch, T. Đồng Nai<br \/>Điện Máy Xanh Số 2448 đường Hùng Vương,... <span class=\"seeMore\" onclick=\"expandCmtChild(44276094);\">Xem tiếp ▾ <\/span><\/div><\/div><div class=\"content hide\">Chào anh. <br \/>Dạ bên em kiểm tra hiện tại sản phẩm này đang tạm hết hàng tại khu vực Số 340, Lý Thái Tổ, ấp Bến Cam, xã Phước Thiền, H. Nhơn Trạch, T. Đồng Nai ạ.<br \/>Dạ bên em kiểm tra hiện tại sản phẩm này đang còn hàng ở khu vực của mình tại <br \/>Số 130 Tôn Đức Thắng, Ấp 3, xã Hiệp Phước, H.Nhơn Trạch, T.Đồng Nai.<br \/>Số 808 đường Hùng Vương, ấp 1, xã Long Thọ, H. Nhơn Trạch, T. Đồng Nai<br \/>Điện Máy Xanh Số 104 Tôn Đức Thắng, ấp 3, X. Hiệp Phước, H. Nhơn Trạch, T. Đồng Nai<br \/>Điện Máy Xanh Số 2448 đường Hùng Vương, Xã Vĩnh Thanh, Huyện Nhơn Trạch, Tỉnh Đồng Nai<br \/>Điện Máy Xanh Xã Long Tân, huyện Nhơn Trạch, tỉnh Đồng Nai<br \/>Điện Máy Xanh Số A57 Lý Thái Tổ, ấp Phước Lý, X. Đại Phước, H. Nhơn Trạch, T. Đồng Nai (Đối diện chợ Đại Phước)<br \/>Nếu quan tâm sản phẩm anh có thể cho bên em xin số điện thoại để bên em hỗ trợ đặt hàng cho mình anh nha. <br \/>Mong nhận phản hồi từ anh<\/div>",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.194429",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Nguyễn Đình Thắng",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.194406",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da43c2",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.194362",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44276094",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194314",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44276001",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " cho em hỏi sanpdragon 665 vs g80 hơn bao nhiêu %",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.194464",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Mai Sy Thanh",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.194455",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da467d",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh ! <br \/>Dạ trường hợp này thì con chip Helio G80 sẽ có hiệu năng cao hơn nhưng về chênh lệch bao nhiêu thì bên em không có thông tin chi tiết ạ.<br \/>Thông tin đến anh ! ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.194500",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Thành Luân",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.194491",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da4836",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.194481",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44275833",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194447",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44275813",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Helio G80 với Exynos 9611 con nào tốt hơn vậy ad?",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.194572",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Huy",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.194563",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da4b3f",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh ! <br \/>Dạ trường hợp này thì con chip Exynos 9611 sẽ có hiệu năng cao hơn anh nhé.<br \/>Thông tin đến anh ! ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.194603",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Thành Luân",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.194594",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da4cf6",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.194585",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44275743",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194555",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44275723",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Mình mua bản 3g\/32g muốn lên bản 4g\/64g thì bù bao nhiêu mới đủ",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.194636",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Minh Tuấn",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.194627",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da4f80",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh <br \/>Dạ nếu sản phẩm mua mới bên em còn thời gian bảo hành và sản phẩm không bị trầy xước cấn móp, ngấm chất lỏng, còn giữ nguyên tình trạng ban đầu, ko bị lỗi do người dùng, còn đủ phụ kiện và khuyến mãi kèm theo. Thì bên em sẽ hỗ trợ thu lại và hoàn lại trong tháng đầu tiên 80% giá trên hóa đơn từ tháng thứ hai mỗi tháng trừ thêm 5% ạ. Anh vui lòng cho em xin số điện thoại mua hàng để em kiểm tra giá thu lại cho mình tham khảo ạ. <br \/>Xin thông tin đến anh. ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.194674",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Trần Lê Phương",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.194660",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da5136",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.194649",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44274623",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194619",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44274621",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Chip này vs snap 665 con nào ok hơn ạ",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.194707",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Huy",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.194698",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da53bb",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh ! <br \/>Dạ trường hợp này thì con chip Helio G80 trên sản phẩm Xiaomi Redmi 9 sẽ có hiệu năng cao hơn anh nhé.<br \/>Thông tin đến anh ! ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.194737",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Thành Luân",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.194728",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da5571",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.194720",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44274572",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194690",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44274337",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Tổng quát Redmi9 vs redmi note 8 cai nao hơn",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.194769",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Hung",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.194760",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da585d",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "<div class=\"conticon\"><div class=\"content_s\"> Chào anh<br \/>Đối với Redmi Note 8, sản phẩm được trang bị tới 4 camera: Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP cùng camera selfie độ phân giải 13 MP với tính năng Super Slow Motion (quay siêu chậm), chống rung EIS, lấy nét AI.. cho chất lượng ảnh được chụp hiển thị tốt, độ chi tiết rõ hơn. Cấu hình máy với vi xử lý Qualcomm Snapdragon 665 cùng viên pin 4000 mAh hỗ trợ sạc nhanh giúp máy có khả năng chiến game cũng như xử lý các tác vụ ổn định trong thời gian dài. Ngôn ngữ thiết kế là điểm nổi bật nhất... <span class=\"seeMore\" onclick=\"expandCmtChild(44272801);\">Xem tiếp ▾ <\/span><\/div><\/div><div class=\"content hide\">Chào anh<br \/>Đối với Redmi Note 8, sản phẩm được trang bị tới 4 camera: Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP cùng camera selfie độ phân giải 13 MP với tính năng Super Slow Motion (quay siêu chậm), chống rung EIS, lấy nét AI.. cho chất lượng ảnh được chụp hiển thị tốt, độ chi tiết rõ hơn. Cấu hình máy với vi xử lý Qualcomm Snapdragon 665 cùng viên pin 4000 mAh hỗ trợ sạc nhanh giúp máy có khả năng chiến game cũng như xử lý các tác vụ ổn định trong thời gian dài. Ngôn ngữ thiết kế là điểm nổi bật nhất khi được chế tác nguyên khối sáng bóng và màu sắc chuyển đổi theo từng góc nhìn đa sắc màu<br \/>Đối với Redmi 9, máy được trang bị đến 4 camera sau bao gồm: Camera chính 13 MP f\/2.2 hỗ trợ thu nhiều chi tiết tốt trong điều kiện đủ sáng mang đến bạn những bức hình chất lượng cao, màu sắc tươi tắn, Camera góc siêu rộng 8 MP với góc chụp rộng cực đại 117 độ giúp cho cảnh vật, những ngọn núi, camera 5 MP chụp cận macro và cảm biến đo độ sâu 2 MP xóa phông vô cùng ảo diệu. Hiệu năng của máy cùng vi xử lý MediaTek Helio G80 có một hiệu năng ổn định đủ sức để chơi game. Màn hình siêu rộng 6.53 inch Full HD Plus IPS LCD, ngoài ra Redmi còn trang bị tính năng lọc ánh sáng xanh, giúp bảo vệ đôi mắt cũng như mang đến sự dễ chịu khi sử dụng thiết bị trong thời gian dài. Bên cạnh đó, viên pin khủng lên đến 5.020 mAh với công nghệ sạc nhanh 18W rút ngắn tối đa thời gian sạc<br \/>Hi vọng với các thông tin em cung cấp ở trên thì anh có thể lựa chọn cho mình một sản phẩm phù hợp với nhu cầu sử dụng của bản thân nhé.<br \/>Xin gửi thông tin đến anh ạ.<\/div>",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.194816",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Trần Thanh Thiên",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.194807",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da5a96",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.194784",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44272801",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194752",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44272688",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Kt giúp mình thời gian bảo hành máy redmi 9 với xxxx820244",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.194849",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Hương",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.194840",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da5d3e",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào chị,<br \/>Dạ sản phẩm Xiaomi Redmi 9 Tím (4 64G) mua ngày 22\/11\/2020 được bảo hành đến 21\/05\/2022 (BH hãng) chị nha.<br \/>Thông tin đến chị.",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.194879",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Linh Hân",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.194871",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da5ef2",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.194861",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44271696",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194832",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44271676",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Dt mới mua có cần sạc 8tieng ko",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.194911",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Winner",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.194903",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da617c",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào chị !<br \/>Với công nghệ mới hiện nay thì điện thoại mới mua về chị không cần nhất thiết phải sạc 3 lần 8 tiếng đâu ạ, cứ sạc đầy rút ra sử dụng thôi chị nhé.<br \/>Thông tin đến chị !",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.194941",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Thanh Hoàng",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.194933",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da6333",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.194924",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44271341",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194895",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44271316",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Vsmart joy 4 với redmi 9 con nào chiến liên quân tốt hơn",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.194973",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Bess",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.194964",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da65bd",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "Chào anh, <br \/>Dạ sản phẩm Xiaomi Redmi 9 sẽ chơi liên quân tốt hơn do sử dụng chip MediaTek Helio G80 mạnh hơn anh nhé.<br \/>Thông tin đến anh. ",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.195003",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Thiết Sự",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.194994",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da6774",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.194986",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44271214",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.194956",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44271192",
+                    "__class": "Societymo\\Comment"
+                },
+                {
+                    "content": " Em ở q9 hcm Muốn mua trả góp Ko biết có đc trả trươc 0đ ko ạ , mức trả trước thấp nhất là bnhiu % ạ Bằng - gplx - hhk đầy đủ",
+                    "isReply": false,
+                    "userOwn": {
+                        "username": "",
+                        "password": "",
+                        "email": "",
+                        "phone": "",
+                        "avatar": {
+                            "id": "-1",
+                            "__class": "YPHP\\Model\\Media\\Image",
+                            "stream": null,
+                            "src": null,
+                            "alt": null,
+                            "width": null,
+                            "height": null,
+                            "thumb": null
+                        },
+                        "permission": {
+                            "codes": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                            },
+                            "childrens": {
+                                "storage": [],
+                                "__class": "Identimo\\Storage\\PermissionStorage"
+                            },
+                            "parent": null,
+                            "name": "",
+                            "status": {
+                                "value": "NEUTRAL"
+                            },
+                            "note": "",
+                            "dateCreated": {
+                                "date": "2020-11-24 15:23:31.195043",
+                                "timezone_type": 3,
+                                "timezone": "UTC"
+                            },
+                            "ref": "",
+                            "id": "-1",
+                            "__class": "Identimo\\Permission"
+                        },
+                        "aclRole": null,
+                        "rbacRole": null,
+                        "childrens": {
+                            "storage": [],
+                            "__class": "YPHP\\Storage\\EntityStorage"
+                        },
+                        "parent": {
+                            "id": "-1",
+                            "__class": "YPHP\\Entity"
+                        },
+                        "name": "Nguyễn Tiến Ngọc",
+                        "status": {
+                            "value": "NEUTRAL"
+                        },
+                        "note": "",
+                        "dateCreated": {
+                            "date": "2020-11-24 15:23:31.195026",
+                            "timezone_type": 3,
+                            "timezone": "UTC"
+                        },
+                        "ref": "",
+                        "id": "5fbd256da6cb6",
+                        "__class": "Identimo\\User"
+                    },
+                    "like": 0,
+                    "unLike": 0,
+                    "replys": null,
+                    "childrens": {
+                        "storage": [
+                            {
+                                "content": "<div class=\"conticon\"><div class=\"content_s\"> Chào anh.<br \/>Dạ sản phẩm mình quan tâm đang còn hàng tại các siêu thị <br \/>159 –161 Lê Văn Việt, P.Hiệp Phú, Q.9, TP.HCM <br \/>Số 203 Lã Xuân Oai, KP.04, P. Tăng Nhơn Phú A, Q. 9, TP. HCM <br \/>1316-1318 Nguyễn Duy Trinh, P. Long Trường, Q. 9, TP. Hồ Chí Minh <br \/>358 Lê Văn Việt, P. Tăng Nhơn Phú B, Quận 9, TP. Hồ Chí Minh <br \/>246 Đỗ Xuân Hợp, P.Phước Long A, Q.9, TP.HCM<br \/>Dạ trường hợp này thì anh có thể mang CMND và Hộ khẩu ghé siêu thị để được FE CREDIT hỗ trợ thông tin gói góp trả trước 0đ anh nha.<br \/>Thông tin đến anh. <\/div><\/div><div class=\"content hide\">Chào anh.<br \/>Dạ sản phẩm mình quan tâm đang còn hàng tại các siêu thị <br \/>159 –161 Lê Văn Việt, P.Hiệp Phú, Q.9, TP.HCM <br \/>Số 203 Lã Xuân Oai, KP.04, P. Tăng Nhơn Phú A, Q. 9, TP. HCM <br \/>1316-1318 Nguyễn Duy Trinh, P. Long Trường, Q. 9, TP. Hồ Chí Minh <br \/>358 Lê Văn Việt, P. Tăng Nhơn Phú B, Quận 9, TP. Hồ Chí Minh <br \/>246 Đỗ Xuân Hợp, P.Phước Long A, Q.9, TP.HCM<br \/>Dạ trường hợp này thì anh có thể mang CMND và Hộ khẩu ghé siêu thị để được FE CREDIT hỗ trợ thông tin gói góp trả trước 0đ anh nha.<br \/>Thông tin đến anh. <\/div>",
+                                "isReply": false,
+                                "userOwn": {
+                                    "username": "",
+                                    "password": "",
+                                    "email": "",
+                                    "phone": "",
+                                    "avatar": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Model\\Media\\Image",
+                                        "stream": null,
+                                        "src": null,
+                                        "alt": null,
+                                        "width": null,
+                                        "height": null,
+                                        "thumb": null
+                                    },
+                                    "permission": {
+                                        "codes": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionCodeStorage"
+                                        },
+                                        "childrens": {
+                                            "storage": [],
+                                            "__class": "Identimo\\Storage\\PermissionStorage"
+                                        },
+                                        "parent": null,
+                                        "name": "",
+                                        "status": {
+                                            "value": "NEUTRAL"
+                                        },
+                                        "note": "",
+                                        "dateCreated": {
+                                            "date": "2020-11-24 15:23:31.195128",
+                                            "timezone_type": 3,
+                                            "timezone": "UTC"
+                                        },
+                                        "ref": "",
+                                        "id": "-1",
+                                        "__class": "Identimo\\Permission"
+                                    },
+                                    "aclRole": {},
+                                    "rbacRole": null,
+                                    "childrens": {
+                                        "storage": [],
+                                        "__class": "YPHP\\Storage\\EntityStorage"
+                                    },
+                                    "parent": {
+                                        "id": "-1",
+                                        "__class": "YPHP\\Entity"
+                                    },
+                                    "name": "Ngọc Thiện",
+                                    "status": {
+                                        "value": "NEUTRAL"
+                                    },
+                                    "note": "",
+                                    "dateCreated": {
+                                        "date": "2020-11-24 15:23:31.195117",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "ref": "",
+                                    "id": "5fbd256da6f0c",
+                                    "__class": "Identimo\\Staff"
+                                },
+                                "like": 0,
+                                "unLike": 0,
+                                "replys": null,
+                                "childrens": {
+                                    "storage": [],
+                                    "__class": "YPHP\\Storage\\EntityStorage"
+                                },
+                                "parent": {
+                                    "id": "-1",
+                                    "__class": "YPHP\\Entity"
+                                },
+                                "name": "",
+                                "status": {
+                                    "value": "NEUTRAL"
+                                },
+                                "note": "",
+                                "dateCreated": {
+                                    "date": "2020-11-24 15:23:31.195102",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "ref": "",
+                                "id": "44270589",
+                                "__class": "Societymo\\Comment"
+                            }
+                        ],
+                        "__class": "YPHP\\Storage\\EntityStorage"
+                    },
+                    "parent": {
+                        "id": "-1",
+                        "__class": "YPHP\\Entity"
+                    },
+                    "name": "",
+                    "status": {
+                        "value": "NEUTRAL"
+                    },
+                    "note": "",
+                    "dateCreated": {
+                        "date": "2020-11-24 15:23:31.195018",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "ref": "",
+                    "id": "44270578",
+                    "__class": "Societymo\\Comment"
+                }
+            ],
+            "__class": "Societymo\\Storage\\CommentStorage"
+        }
+    },
+    "video": null,
+    "image360": null,
+    "combos": null,
+    "characteristics": {
+        "id": "-1",
+        "__class": "Ecomo\\Tech\\Characteristics",
+        "images": {
+            "storage": [
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/vi-vn-xiaomi-redmi-9-thumbvideo.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/vi-vn-xiaomi-redmi-9-tinhnang.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/-xiaomi-redmi-9-slider.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/vi-vn-xiaomi-redmi-9-mausac.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/vi-vn-xiaomi-redmi-9-manhinh.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/vi-vn-xiaomi-redmi-9-camera-sau.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/vi-vn-xiaomi-redmi-9-chup-chan-dung.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/vi-vn-xiaomi-redmi-9-chip.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/vi-vn-xiaomi-redmi-9-sac.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Slider\/vi-vn-xiaomi-redmi-9-tienich.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/Kit\/xiaomi-redmi-9-bbh-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": null
+                }
+            ],
+            "__class": "YPHP\\Model\\Media\\Storage\\ImageStorage"
+        }
+    },
+    "article": {
+        "title": null,
+        "content": " <h2>Nhanh như một cơn gió, sức hot của <a href=\"https:\/\/www.thegioididong.com\/dtdd\/xiaomi-redmi-note-9-pro\" target=\"_blank\" title=\"Tham khảo giá điện thoại Redmi Note 9 Pro chính hãng\" type=\"Tham khảo giá điện thoại Redmi Note 9 Pro chính hãng\">Redmi Note 9 Pro<\/a> chưa có dấu hiệu hạ nhiệt thì <a href=\"https:\/\/www.thegioididong.com\/dtdd\/xiaomi-redmi-9\" target=\"_blank\" title=\"Tham khảo giá điện thoại Xiaomi Redmi 9 tại Thegioididong.com\" type=\"Tham khảo giá điện thoại Xiaomi Redmi 9 tại Thegioididong.com\">Xiaomi Redmi 9<\/a> vừa bất ngờ ra mắt sớm. Thiết bị mang một thiết kế mới, thời trang và nhỏ gọn, phần cứng được nâng cấp cùng thời lượng pin ấn tượng, đặc biệt đi kèm một mức giá bán không thể nào hấp dẫn hơn.<\/h2><h3>Sáng tạo với bộ 4 camera đa năng<\/h3><p>Xiaomi Redmi 9 là bản nâng cấp mạnh mẽ về camera so với thế hệ tiền nhiệm <a href=\"https:\/\/www.thegioididong.com\/dtdd\/xiaomi-redmi-8\" target=\"_blank\" title=\"Tham khảo giá điện thoại Xiaomi Redmi 8 chính hãng tại Thegioididong.com\" type=\"Tham khảo giá điện thoại Xiaomi Redmi 8 chính hãng tại Thegioididong.com\">Redmi 8<\/a>, khi trang bị đến 4 camera sau bao gồm: Camera chính 13 MP, Camera <a href=\"https:\/\/www.thegioididong.com\/dtdd-camera-goc-rong\" target=\"_blank\" title=\"Tham khảo các mẫu điện thoại có camera góc rộng tại Thegioididong.com\" type=\"Tham khảo các mẫu điện thoại có camera góc rộng tại Thegioididong.com\">góc siêu rộng<\/a> 8 MP, camera macro 5 MP và cảm biến đo độ sâu 2 MP.<\/p><h2><a class=\"preventdefault\" href=\"https:\/\/www.thegioididong.com\/images\/42\/217308\/xiaomi-redmi-92.jpg\" onclick=\"return false;\"><img alt=\"Điện thoại Xiaomi Redmi 9 | 4 camera trên điện thoại \" data-original=\"https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-92.jpg\" class='lazy' title=\"Điện thoại Xiaomi Redmi 9 | 4 camera trên điện thoại \" \/><\/a><\/h2><p>Bộ tứ camera trên Redmi 9 giúp bạn ghi lại những khoảnh khắc đẹp đáng nhớ ngày thường. Mỗi ống kính sẽ mang đến những phong cách chụp mới lạ, cho phép bạn thỏa sức tạo nên những tấm ảnh cực chất và ấn tượng.<\/p><p>Camera chính 13 MP khẩu độ f\/2.2 hỗ trợ thu nhiều chi tiết tốt trong điều kiện đủ sáng mang đến bạn những bức hình chất lượng cao, màu sắc tươi tắn.<\/p><p><div class='slideArt'><\/div><\/p><p><div class='item'><img src='https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-234020-044036.jpg' \/><span>Ảnh chụp camera sau<\/span><\/div><\/p><p><div class='item'><img src='https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-234020-044046.jpg' \/><span>Ảnh chụp camera sau<\/span><\/div><\/p><p><div class='item'><img src='https:\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-234020-044055.jpg' \/><span>Ảnh chụp camera sau<\/span><\/div><\/p><p><\/p>",
+        "countComment": null,
+        "logo": null,
+        "communication": null,
+        "id": "5fbd256d92d99",
+        "__class": "Societymo\\ArticleXX",
+        "userOwn": null,
+        "dirFileContent": null
+    },
+    "newsList": {
+        "id": "5fbd256d9e2c4",
+        "__class": "Societymo\\NewsList",
+        "articles": {
+            "storage": [
+                {
+                    "title": null,
+                    "content": "C&#225;ch nhận 9 th&#225;ng 50GB dung lượng iCloud miễn ph&#237;, nhận ngay n&#224;o c&#225;c bạn ơi",
+                    "countComment": null,
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "https:\/\/cdn.tgdd.vn\/Files\/2020\/11\/24\/1308872\/cach-nhan-9-thang-50-gb-icloud-mien-phi_800x450-300x200.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "communication": null,
+                    "id": "5fbd256da1036",
+                    "__class": "Societymo\\ArticleX",
+                    "userOwn": null
+                },
+                {
+                    "title": null,
+                    "content": "Ngo&#224;i phi&#234;n bản 12.9 inch với m&#224;n h&#236;nh Mini LED, c&#225;c mẫu iPad Pro (2021) c&#242;n lại sẽ sử dụng tấm nền OLED v&#224; ra mắt v&#224;o nửa cuối năm sau",
+                    "countComment": null,
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "https:\/\/cdn.tgdd.vn\/Files\/2020\/11\/24\/1308846\/ipad-pro-1_800x450-300x200.png",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "communication": null,
+                    "id": "5fbd256da10eb",
+                    "__class": "Societymo\\ArticleX",
+                    "userOwn": null
+                },
+                {
+                    "title": null,
+                    "content": "Đồng hồ th&#244;ng minh Redmi Watch c&#243; thể sẽ ra mắt v&#224;o ng&#224;y 26\/11 tới đ&#226;y c&#249;ng với d&#242;ng smartphone Redmi Note 9 5G",
+                    "countComment": null,
+                    "logo": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "https:\/\/cdn.tgdd.vn\/Files\/2020\/11\/23\/1308784\/thumb_1200x675-300x200.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    },
+                    "communication": null,
+                    "id": "5fbd256da1168",
+                    "__class": "Societymo\\ArticleX",
+                    "userOwn": null
+                }
+            ],
+            "__class": "Societymo\\Storage\\ArticleStorage"
+        }
+    },
+    "accessories": null,
+    "phoneParameter": {
+        "html": " <li class=\"p217308 g6459_79_77\"><span>Màn hình:<\/span><div><a href='https:\/\/www.thegioididong.com\/hoi-dap\/man-hinh-ips-lcd-la-gi-905752' target='_blank'>IPS LCD<\/a>, 6.53\", <a href='https:\/\/www.thegioididong.com\/tin-tuc\/do-phan-giai-man-hinh-qhd-hd-fullhd-2k-4k-la-gi--592178#fullhd' target='_blank'>Full HD+<\/a><\/div><\/li><li class=\"p217308 g72\"><span>Hệ điều hành:<\/span><div><a href='https:\/\/www.thegioididong.com\/hoi-dap\/android-10-android-q-la-gi-co-gi-moi-1237224' target='_blank'>Android 10<\/a><\/div><\/li><li class=\"p217308 g27\"><span>Camera sau:<\/span><div>Chính 13 MP & Phụ 8 MP, 5 MP, 2 MP<\/div><\/li><li class=\"p217308 g29\"><span>Camera trước:<\/span><div>8 MP<\/div><\/li><li class=\"p217308 g6059\"><span>CPU:<\/span><div><a href='https:\/\/www.thegioididong.com\/hoi-dap\/tim-hieu-chip-xu-ly-helio-g-series-cua-mediatek-1284166#helio-g80' target='_blank'>MediaTek Helio G80 8 nhân<\/a><\/div><\/li><li class=\"p217308 g50\"><span><a href=\"https:\/\/www.thegioididong.com\/hoi-dap\/ram-la-gi-co-y-nghia-gi-trong-cac-thiet-bi-dien-t-1216259\" target=\"_blank\">RAM:<\/a><\/span><div>4 GB<\/div><\/li><li class=\"p217308 g49\"><span>Bộ nhớ trong:<\/span><div>64 GB<\/div><\/li><li class=\"p217308 g52\"><span>Thẻ nhớ:<\/span><div><a href='https:\/\/www.thegioididong.com\/the-nho-dien-thoai' target='_blank'>MicroSD, hỗ trợ tối đa 512 GB<\/a><\/div><\/li><li class=\"g6339_6463\"><span>Thẻ SIM:<\/span><div class=\"isim\"><a href='https:\/\/www.thegioididong.com\/tin-tuc\/tim-hieu-cac-loai-sim-thong-dung-sim-thuong-micro--590216#nanosim' target='_blank'>2 Nano SIM<\/a>, <a href='https:\/\/www.thegioididong.com\/hoi-dap\/4g-la-gi-731757' target='_blank'>Hỗ trợ 4G<\/a><\/div><div class=\"ibsim\"><b class=\"h\">HOT<\/b><a href=\"https:\/\/www.thegioididong.com\/sim-so-dep\/vietnamobile?t=59\">SIM VNMB Siêu sim (5GB\/ngày)<\/a><\/div><\/li><li class=\"p217308 g84_10882\"><span>Dung lượng pin:<\/span><div>5020 mAh, có sạc nhanh<\/div><\/li> "
+    },
+    "imageRepresent": {
+        "id": "-1",
+        "__class": "YPHP\\Model\\Media\\ImageRepresent",
+        "stream": null,
+        "logo": {
+            "id": "-1",
+            "__class": "YPHP\\Model\\Media\\Image",
+            "stream": null,
+            "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-200-180x125.png",
+            "alt": null,
+            "width": null,
+            "height": null,
+            "thumb": null
+        },
+        "images": {
+            "storage": [
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-1-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-1-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-2-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-2-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-3-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-3-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-4-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-4-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-5-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-5-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-6-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-6-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-7-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-7-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-8-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-8-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-9-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-9-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-10-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-10-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-11-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-11-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                },
+                {
+                    "id": "-1",
+                    "__class": "YPHP\\Model\\Media\\Image",
+                    "stream": null,
+                    "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-12-org.jpg",
+                    "alt": null,
+                    "width": null,
+                    "height": null,
+                    "thumb": {
+                        "id": "-1",
+                        "__class": "YPHP\\Model\\Media\\Image",
+                        "stream": null,
+                        "src": "\/\/cdn.tgdd.vn\/Products\/Images\/42\/217308\/xiaomi-redmi-9-xam-12-180x125.jpg",
+                        "alt": null,
+                        "width": null,
+                        "height": null,
+                        "thumb": null
+                    }
+                }
+            ],
+            "__class": "YPHP\\Model\\Media\\Storage\\ImageStorage"
+        }
+    },
+    "videos": null,
+    "cameraImageRepresent": null
+}
